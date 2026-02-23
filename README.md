@@ -39,4 +39,4 @@ Este projeto é um exercício prático das habilidades adquiridas no curso e dem
 
 ## Licença
 
-Este projeto está licenciado sob a MIT License - veja o arquivo para mais detalhes.
+Este projeto está licenciado sob a [MIT License](LICENSE) - veja o arquivo para mais detalhes.
