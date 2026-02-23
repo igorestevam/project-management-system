@@ -8,18 +8,10 @@ spring:
   application:
     name: PManager
   datasource:
-    #url: jdbc:h2:mem:test
-    #driverClassName: org.h2.Driver
-    #username: sa
-    #password:
-
     url: jdbc:mysql://localhost:3306/pmanagerdb
     driverClassName: com.mysql.cj.jdbc.Driver
     username: root
     password: 1910
-  #h2:
-    #console:
-      #enabled: true
   jpa:
     show-sql: true
     hibernate:
